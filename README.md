@@ -1,6 +1,6 @@
 # Simplar
 
-<img src = "https://i.imgur.com/nbZ4tQP.png>
+<img src = "https://i.imgur.com/nbZ4tQP.png">
 
 <h1> Summary </h1>
 
